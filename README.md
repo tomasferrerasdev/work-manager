@@ -1,9 +1,9 @@
 This Guide / Doc is still in progress keep coming to check updates ✅✅✅
 
-# Initial project config
-- Engine Locking
-    -.nvmrc
-    -.npmrc
+# Initial project config 
+- Engine Locking  
+    - .nvmrc  
+    - .npmrc
 - Code Formatting and Quality Tools
     - eslint
     - prettier
