@@ -35,7 +35,7 @@ lts/fermium
 ```
 engine-strict=true
 ```
-Note that the use of engine-strict didn't specifically say anything about yarn, we should do that in package.json to make it work:
+Note that the use of engine-strict didn't specifically say anything about yarn, we should do that in package.json to make it work:  
 **.package.json**
 ```
 "name": "your-app-name",
