@@ -1,12 +1,22 @@
 {
   "name": "work-manager",
+  "author": "Tomas Ferreras",
+  "description": "work manager application using NextJS, NodeJS, MongoDB and MUI.",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "homepage": "https://github.com/tomasferrerasdev/work-manager.git",
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prettier": "prettier --write ."
   },
   "dependencies": {
     "next": "12.1.6",
@@ -19,6 +29,7 @@
     "@types/react-dom": "18.0.5",
     "eslint": "8.18.0",
     "eslint-config-next": "12.1.6",
+    "prettier": "^2.7.1",
     "typescript": "4.7.4"
   }
 }
