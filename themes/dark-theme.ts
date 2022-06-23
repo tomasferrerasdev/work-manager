@@ -11,6 +11,5 @@ export const darkTheme = createTheme({
       main: red.A400,
     },
   },
-
   components: {},
 });
