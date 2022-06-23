@@ -1,6 +1,6 @@
 
 
-# Initial project config
+# Initial project config 🛠️⚙️
 - Engine Locking
     -.nvmrc
     -.npmrc
