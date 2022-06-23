@@ -1,6 +1,6 @@
+This Guide / Doc is still in progress keep coming to check updates ✅✅✅
 
-
-# Initial project config 🛠️⚙️
+# Initial project config
 - Engine Locking
     -.nvmrc
     -.npmrc
@@ -52,7 +52,5 @@ Note that the use of engine-strict didn't specifically say anything about yarn, 
   },
   ...
 ```
-
-This Guide / Doc is still in progress keep coming to check updates ✅✅✅
 
 
